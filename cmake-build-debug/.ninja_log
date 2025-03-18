@@ -1,0 +1,5 @@
+# ninja log v6
+5	1734	7639247089216280	CMakeFiles/lab2.dir/main.cpp.obj	abbd8737c612e33a
+148	258	7639444261906325	lab2.exe	3c3547ea004aeda7
+6	147	7639444260481015	CMakeFiles/lab2.dir/main.c.obj	4ff42add3cde9e7d
+3	550	7639915816643874	build.ninja	43119222d758c5a4

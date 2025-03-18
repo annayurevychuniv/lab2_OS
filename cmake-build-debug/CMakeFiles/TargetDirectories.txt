@@ -1,0 +1,3 @@
+D:/Documents/3 курс/2 семестр/Операційні системи для моб платформ/lab2/cmake-build-debug/CMakeFiles/lab2.dir
+D:/Documents/3 курс/2 семестр/Операційні системи для моб платформ/lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Documents/3 курс/2 семестр/Операційні системи для моб платформ/lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
